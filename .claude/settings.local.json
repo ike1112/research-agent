@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "{\n  \"allowedTools\": [\n    \"Read\",\n    \"Write\",\n    \"Bash(npm:*)\",\n    \"Bash(yt-dlp:*)\"\n  ]\n}",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(node:*)",
+      "WebFetch(domain:docs.claude.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
